@@ -1,0 +1,16 @@
+
+### .gitignore
+
+```gitignore
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar o banco de dados SQLite
+biblioteca.db
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do ambiente
+.env
